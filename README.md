@@ -1,10 +1,13 @@
-# COVID Dashboard - ECM1400 Continuous Assessment
+# COVID-dashboard
 
-
-The COVID dashboard is a tool that allows a user to stay up-to-date with the ongoing SARS-CoV-2 global pandemic. The dashboard serves a number of functions, including:
+Continuous Assessment for ECM1400 - Programming, set by Dr. Matt Collison (Year 1, Semester 1). The COVID dashboard is a tool that allows a user to stay up-to-date with the ongoing SARS-CoV-2 global pandemic. The dashboard serves a number of functions, including:
   - Providing the user with the latest news on the pandemic
   - Providing the user the latest statistics on the pandemic, according to their location (this can be adjusted in the configuration file)
   - Allowing the user to schedule updates to the data at their desired time intervals
+
+This work received a final mark of 68/100.
+
+Please see `specification.pdf` for specification.
 
 ## Installation
 To install the COVID dashboard, the user will need to have Python 3 installed. They will then need to install the following libraries:
